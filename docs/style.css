@@ -10,13 +10,18 @@
 }
 .triangle{
  background-color: green;
+ margin: 3px;
 }
 .square{
  background-color: blue;
+ margin: 3px;
 }
 .rectangle{
  background-color: yellow;
+ margin: 3px;
 }
 .circle{
  background color: red;
+ margin: 3px;
 }
+
