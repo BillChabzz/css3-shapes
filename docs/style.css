@@ -19,6 +19,11 @@
  margin: 3px;
  float: left;
 }
+.thesquare{
+ height: 100px;
+ width: 100px;
+ background-color: white;
+}
 .rectangle{
  background-color: yellow;
  margin: 3px;
